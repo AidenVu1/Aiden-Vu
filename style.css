@@ -1,0 +1,166 @@
+.page1 {
+    background-image: url("cbg.png");
+}
+
+.page2 {
+  background-image: url("vn.jpg"), url("Elegant_Background-17.jpg");
+  background-size: cover, cover;
+  background-repeat: no-repeat, repeat-y;
+  background-size: auto auto;
+}
+
+img.thonk {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: auto;
+}
+
+.header1 {
+  position:relative;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  color:cornsilk;
+}
+
+.header2 {
+  position: relative;
+  left: 120px;
+  bottom: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color:cornsilk;
+}
+.p1 {
+  position:relative;
+  left: 120px;
+  bottom: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color:cornsilk;
+}
+
+.kinglaugh {
+  position:relative;
+  left: 440px;
+  bottom: 125px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.p2 {
+  position:relative;
+  left: 450px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color:gold;
+}
+
+.fam {
+  float: left;
+  margin: 0 15px 0 0;
+  width: 900px;
+  height: auto;
+  margin-right:200px;
+  margin-bottom: 20px;
+}
+
+.pn1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color:cornsilk;
+}
+
+.AV {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: auto;
+  margin-bottom:200px;
+}
+
+.pn2 {
+  text-align: right;
+  vertical-align: middle;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  color:cornsilk;
+}
+
+.pn3 {
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  color:cornsilk;
+}
+
+.piano {
+  float: left;
+  width: 900px;
+  height: auto;
+  margin-right: 200px;
+  margin-bottom: 20px;
+}
+
+.hockey {
+  float: left;
+  top: 20px;
+  width: 900px;
+  height: auto;
+  margin-right: 200px;
+  margin-bottom: 20px;
+}
+
+.pn4 {
+  text-align: right;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  color:cornsilk;
+}
+
+.coding {
+  float: left;
+  bottom: 200px;
+  width: 500px;
+  height: auto;
+  margin-right: 200px;
+}
+
+.pn5 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  color:cornsilk;
+}
+
+
+
+
+
+
